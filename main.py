@@ -1,5 +1,7 @@
-def main():
-    print("Hello from flet-counter!")
+from counter import main
+
+# def main():
+#     print("Hello from flet-counter!")
 
 
 if __name__ == "__main__":
