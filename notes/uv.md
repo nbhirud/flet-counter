@@ -18,7 +18,6 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 uv self update
 ```
 
-<<<<<<< Updated upstream
 ### PyPI
 
 #### With pip
@@ -30,5 +29,3 @@ pip install uv
 pipx install uv
 ```
 
-=======
->>>>>>> Stashed changes
